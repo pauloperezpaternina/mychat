@@ -5,6 +5,13 @@ _Sala de chats para conversar en linea_
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+En tu terminal
+```
+git clone https://github.com/pauloperezpaternina/mychat.git
+npm install
+npm run dev
+```
+Go to localhost:3000
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
