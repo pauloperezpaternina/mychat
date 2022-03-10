@@ -1,4 +1,4 @@
-# mychat
+# Mychat
 
 _Sala de chats para conversar en linea_
 
