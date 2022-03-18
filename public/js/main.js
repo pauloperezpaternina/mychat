@@ -76,7 +76,5 @@ document.getElementById('leave-btn').addEventListener('click', () => {
     
     if (leaveRoom) {
       window.location = '../index.html';
-    } else {
-       return false;
     }
   });
